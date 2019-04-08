@@ -39,3 +39,4 @@ virtualenvwrapper-win==1.2.5
 wcwidth==0.1.7
 Werkzeug==0.15.2
 wrapt==1.11.1
+django-contrib-comments==1.8.0
